@@ -5,10 +5,14 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What are the six primary HTML elements for creating tables?
+  <thead>, <tfoot>, <tbody>, <tr> (table row), <td> (table data)
 
 - What purpose do the `thead` and `tbody` elements serve?
+  thead elements contain the headers for the table
+  tbody elements contain data that is contained within the table
 
 - Give two examples of data that would lend itself well to being displayed in a table.
+  student grades & calender agenda
 
 ## Notes
 
